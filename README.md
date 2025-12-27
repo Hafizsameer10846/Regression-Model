@@ -8,7 +8,7 @@ Hafiz Muhammad Sameer        B24F0798CS102
 Abdullah Khalid              B24F0011CS103
 Syed Umair Hussain           B24F0706CS104
 
-📈Regression Model Web Application (C++)
+**📈Regression Model Web Application (C++)**
 
 This project implements a regression model built in C++, integrated into a full-stack web application.
 
@@ -37,3 +37,6 @@ Frontend: Vercel
 Backend: Replit
 
 This project demonstrates the integration of high-performance C++ machine learning logic with a modern web-based frontend and backend architecture.
+
+**Image of frontend**
+<img width="1042" height="843" alt="image" src="https://github.com/user-attachments/assets/cce2ae3a-0a5d-4bf1-aa77-69b9d3d1c117" />
