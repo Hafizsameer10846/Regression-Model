@@ -40,3 +40,6 @@ This project demonstrates the integration of high-performance C++ machine learni
 
 **Image of frontend**
 <img width="1042" height="843" alt="image" src="https://github.com/user-attachments/assets/cce2ae3a-0a5d-4bf1-aa77-69b9d3d1c117" />
+
+**Hosting Link**
+https://myregressionmodel.vercel.app/
